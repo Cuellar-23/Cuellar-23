@@ -7,7 +7,7 @@
 
 - <b> Active Directory design with PowerShell </b>
 
-   - [Active Directory design with PowerShell](https://github.com/Cuellar-23/Active-Directory-design-with-PowerShell)
+   - [Active Directory design with PowerShell](https://github.com/Cuellar-23/Active-Directory-design-with-PowerShell/blob/main/README.md)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
