@@ -1,7 +1,7 @@
 
 
 
-<h1>Hi, I'm Jonathan! <br/><b>Technology Specialist I</b>,
+<h1>Hi, I'm Jonathan! <br/><b>Technology Specialist I</b>
 
 <h2>👨‍💻 Active Directory Home Lab:</h2>
 
