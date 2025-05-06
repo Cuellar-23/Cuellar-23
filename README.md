@@ -5,9 +5,9 @@
 
 <h2>👨‍💻 Active Directory Home Lab:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b> Active Directory design with PowerShell </b>
 
-   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+   - [Active Directory design with PowerShell](https://github.com/Cuellar-23/Active-Directory-design-with-PowerShell)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
@@ -42,6 +42,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
