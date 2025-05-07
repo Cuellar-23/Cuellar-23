@@ -17,6 +17,7 @@
 <h2> :page_facing_up: Certificates </h2>
 
   -</b>  CompTia Network + (https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=ZH9Y1V12NEB1QKCJ) </b>
+  
   -</b>  Google IT Support (https://www.coursera.org/account/accomplishments/professional-cert/9839CTP9CVKA) </b>
   
 
