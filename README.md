@@ -5,6 +5,10 @@
 
 <h2>👨‍💻 Active Directory Home Lab:</h2>
 
+- <b> Creation of Domain Controller and VM </b>
+
+   - [Creation of Domain Controller and VM](https://github.com/Cuellar-23/Creation-of-Domain-controller-and-VM/blob/main/README.md)
+
 - <b> Active Directory design with PowerShell </b>
 
    - [Active Directory design with PowerShell](https://github.com/Cuellar-23/Active-Directory-design-with-PowerShell/blob/main/README.md)
